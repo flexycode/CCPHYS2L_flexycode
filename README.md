@@ -4,6 +4,16 @@ A comprehensive, interactive web application designed to help students master Ph
 
 ![Physics Learning Platform](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=600&fit=crop)
 
+# 💫 CCPHYS2L - COLLEGE PHYSICS 2
+
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
+### Subject & Section: CCPHYS2L - COM231 
+### Schedule: WED 07:00 AM - 11:00 AM 501 MB - SAT 07:00 AM - 11:00 AM ANB
+### Professor: Mr. Raul B. Borlungay
+### No. of Units: 3 Units
+### Prerequisite: [CPHYS2L: COLLEGE PHYSICS 1](https://github.com/flexycode/CCPHYS1L)
+### Final Project: [Physics 2 Final Project](https://ccphys2l-flexycode.netlify.app/)
+
 ## 🌟 Features
 
 ### 🎯 Interactive Learning Experience
@@ -271,3 +281,48 @@ For support, questions, or suggestions:
 **Built with ❤️ for physics education and powered by modern web technologies**
 
 *Explore the universe of physics through interactive learning!* 🌌⚡🔬
+
+
+# 📫 Changelogs
+
+## [0.0.1] - 2025-03-20     
+### Added  
+- ✨ Create Repository for Physics
+
+### Changed
+- ✨ Folder set rename
+
+### Fixed 
+- ✨ Fix changelogs
+
+## [0.0.1] - 2025-06-15     
+### Added  
+- ✨ Create Repository for Physics 2 Final Project
+
+💫 CCPHYS2L - PHYSICS 2
+
+<!-- Introduction Pannel button link, it will redirect to the top -->
+#### [Back to Table of Content](#ccphys1l)
+
+<!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this; Previous Professor "Clarisson Rizzie Canlubo"  -->
+---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+
+<!-- Genshin Impact -->
+<div align="center">
+<img src="https://media.giphy.com/media/wcVQHVg5lYsCDkxz4J/giphy.gif?cid=ecf05e47yz4oc4o3pl85zwujqt2e6xumb1fhticxniefaqmu&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+</div>
+
+<!-- End point line insert Comeback again next time, feel free to modify this 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=💎💎Come+Back+Again+next+time💎💎" alt="mystreak"/>
+</p>
+ -->
+ 
+</p>
+    
+<br>
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
